@@ -1,30 +1,24 @@
 # Overview
 
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
+This is a simple "Pong" game that I created in Unity with C#. The game is simple, two players go head to head and try to hit the ball past their opponents paddle. Player 1 moves their paddle with the "W" and "S" keys and player 2 moves their paddle with the up and down arrow keys.
 
-{Provide a description the game that you wrote. Describe how to play your game.}
-
-{Describe your purpose for writing this software.}
-
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the game being played and a walkthrough of the code.}
+I created a few basic scripts for this game which allows the paddles to move, the ball to bounce and react to collisions, and collisions with side walls to reset the scene and update the score.
 
 [Software Demo Video](http://youtube.link.goes.here)
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
-
-{Describe the programming language that you used and any libraries.}
+I created this project using the Unity Engine and coded the scripts using C#. Physics were created by Unity's built in physics engine.
 
 # Useful Websites
 
 {Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+* [Microsoft Learn](https://learn.microsoft.com/en-us/archive/msdn-magazine/2016/january/essential-net-csharp-scripting)
+* [Unity Tutorials](https://unity.com/learn)
 
 # Future Work
 
 {Make a list of things that you need to fix, improve, and add in the future.}
-* Item 1
-* Item 2
-* Item 3
+* Transition the game from pong to a air hocky game with 2 dimensional movement.
+* Add a computer that you can play against.
+* Fix some bugs happening with the ball speed.
