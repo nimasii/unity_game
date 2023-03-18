@@ -4,7 +4,7 @@ This is a simple "Pong" game that I created in Unity with C#. The game is simple
 
 I created a few basic scripts for this game which allows the paddles to move, the ball to bounce and react to collisions, and collisions with side walls to reset the scene and update the score.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/9DsmbZ9xo6I)
 
 # Development Environment
 
